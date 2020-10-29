@@ -39,7 +39,7 @@ def saludos(total_seg):
 		print('ingrese correctamente')
 
 
-
+# construir funcion
 def estacion():
 	pass
 
@@ -63,7 +63,7 @@ print(str(total_seg) + ' segundos')
 c = saludos(total_seg)
 print(str(c))
 
-# preguntar dia, mes y hemisferio
+# Falta implementar funcion, preguntar dia, mes y hemisferio
 print('A continuacion ingrese la fecha de hoy en formato DD:MM e indique hemisferio')
 mes = int(input('ingrese mes: '))
 dia = int(input('ingrese dia: '))
